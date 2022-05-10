@@ -1,0 +1,4925 @@
+{
+  "slug": "azuki",
+  "listings": [
+    {
+      "tokenId": "Azuki #3751",
+      "listPrice": 9.849
+    },
+    {
+      "tokenId": "Azuki #4306",
+      "listPrice": 9.9
+    },
+    {
+      "tokenId": "Azuki #4636",
+      "listPrice": 10.169
+    },
+    {
+      "tokenId": "Azuki #7158",
+      "listPrice": 10.2
+    },
+    {
+      "tokenId": "Azuki #5472",
+      "listPrice": 10.2
+    },
+    {
+      "tokenId": "Azuki #5746",
+      "listPrice": 10.25
+    },
+    {
+      "tokenId": "Azuki #7758",
+      "listPrice": 10.29
+    },
+    {
+      "tokenId": "Azuki #9304",
+      "listPrice": 10.4
+    },
+    {
+      "tokenId": "Azuki #733",
+      "listPrice": 10.45
+    },
+    {
+      "tokenId": "Azuki #1556",
+      "listPrice": 10.5
+    },
+    {
+      "tokenId": "Azuki #1618",
+      "listPrice": 10.55
+    },
+    {
+      "tokenId": "Azuki #4547",
+      "listPrice": 10.68
+    },
+    {
+      "tokenId": "Azuki #5276",
+      "listPrice": 10.69
+    },
+    {
+      "tokenId": "Azuki #6280",
+      "listPrice": 10.69
+    },
+    {
+      "tokenId": "Azuki #3985",
+      "listPrice": 10.7
+    },
+    {
+      "tokenId": "Azuki #3149",
+      "listPrice": 10.89
+    },
+    {
+      "tokenId": "Azuki #6545",
+      "listPrice": 10.98
+    },
+    {
+      "tokenId": "Azuki #8373",
+      "listPrice": 10.98
+    },
+    {
+      "tokenId": "Azuki #8667",
+      "listPrice": 10.99
+    },
+    {
+      "tokenId": "Azuki #2004",
+      "listPrice": 10.99
+    },
+    {
+      "tokenId": "Azuki #1930",
+      "listPrice": 10.99
+    },
+    {
+      "tokenId": "Azuki #5865",
+      "listPrice": 10.99
+    },
+    {
+      "tokenId": "Azuki #517",
+      "listPrice": 10.99
+    },
+    {
+      "tokenId": "Azuki #6298",
+      "listPrice": 10.99
+    },
+    {
+      "tokenId": "Azuki #6300",
+      "listPrice": 10.99
+    },
+    {
+      "tokenId": "Azuki #1168",
+      "listPrice": 11
+    },
+    {
+      "tokenId": "Azuki #7528",
+      "listPrice": 11
+    },
+    {
+      "tokenId": "Azuki #2326",
+      "listPrice": 11
+    },
+    {
+      "tokenId": "Azuki #7991",
+      "listPrice": 11
+    },
+    {
+      "tokenId": "Azuki #8261",
+      "listPrice": 11
+    },
+    {
+      "tokenId": "Azuki #7826",
+      "listPrice": 11
+    },
+    {
+      "tokenId": "Azuki #5330",
+      "listPrice": 11.25
+    },
+    {
+      "tokenId": "Azuki #5320",
+      "listPrice": 11.29
+    },
+    {
+      "tokenId": "Azuki #3880",
+      "listPrice": 11.3
+    },
+    {
+      "tokenId": "Azuki #2046",
+      "listPrice": 11.35
+    },
+    {
+      "tokenId": "Azuki #223",
+      "listPrice": 11.38
+    },
+    {
+      "tokenId": "Azuki #4945",
+      "listPrice": 11.4
+    },
+    {
+      "tokenId": "Azuki #9092",
+      "listPrice": 11.49
+    },
+    {
+      "tokenId": "Azuki #4200",
+      "listPrice": 11.5
+    },
+    {
+      "tokenId": "Azuki #2538",
+      "listPrice": 11.5
+    },
+    {
+      "tokenId": "Azuki #6029",
+      "listPrice": 11.5
+    },
+    {
+      "tokenId": "Azuki #2932",
+      "listPrice": 11.69
+    },
+    {
+      "tokenId": "Azuki #3063",
+      "listPrice": 11.69
+    },
+    {
+      "tokenId": "Azuki #8087",
+      "listPrice": 11.69
+    },
+    {
+      "tokenId": "Azuki #5233",
+      "listPrice": 11.69
+    },
+    {
+      "tokenId": "Azuki #5830",
+      "listPrice": 11.7999
+    },
+    {
+      "tokenId": "Azuki #6447",
+      "listPrice": 11.8
+    },
+    {
+      "tokenId": "Azuki #6853",
+      "listPrice": 11.8
+    },
+    {
+      "tokenId": "Azuki #9682",
+      "listPrice": 11.88
+    },
+    {
+      "tokenId": "Azuki #6094",
+      "listPrice": 11.88
+    },
+    {
+      "tokenId": "Azuki #3720",
+      "listPrice": 11.888
+    },
+    {
+      "tokenId": "Azuki #8898",
+      "listPrice": 11.888
+    },
+    {
+      "tokenId": "Azuki #4857",
+      "listPrice": 11.89
+    },
+    {
+      "tokenId": "Azuki #9334",
+      "listPrice": 11.9
+    },
+    {
+      "tokenId": "Azuki #9891",
+      "listPrice": 11.9
+    },
+    {
+      "tokenId": "Azuki #7993",
+      "listPrice": null
+    },
+    {
+      "tokenId": "Azuki #3621",
+      "listPrice": 11.9
+    },
+    {
+      "tokenId": "Azuki #1372",
+      "listPrice": 11.93
+    },
+    {
+      "tokenId": "Azuki #4092",
+      "listPrice": 11.94
+    },
+    {
+      "tokenId": "Azuki #2017",
+      "listPrice": 11.94
+    },
+    {
+      "tokenId": "Azuki #4228",
+      "listPrice": 11.98
+    },
+    {
+      "tokenId": "Azuki #6112",
+      "listPrice": 11.99
+    },
+    {
+      "tokenId": "Azuki #4377",
+      "listPrice": 11.99
+    },
+    {
+      "tokenId": "Azuki #5621",
+      "listPrice": 11.99
+    },
+    {
+      "tokenId": "Azuki #7698",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #4858",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #1750",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #9470",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #9883",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #6255",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #6415",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #6398",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #6732",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #7963",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #7601",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #1515",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #830",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #812",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #7311",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #4361",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #7325",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #8355",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #7519",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #5450",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #4375",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #3915",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #1054",
+      "listPrice": 12
+    },
+    {
+      "tokenId": "Azuki #6404",
+      "listPrice": 12.49
+    },
+    {
+      "tokenId": "Azuki #6663",
+      "listPrice": 12.49
+    },
+    {
+      "tokenId": "Azuki #5626",
+      "listPrice": 12.5
+    },
+    {
+      "tokenId": "Azuki #3921",
+      "listPrice": 12.5
+    },
+    {
+      "tokenId": "Azuki #1763",
+      "listPrice": 12.5
+    },
+    {
+      "tokenId": "Azuki #6584",
+      "listPrice": 12.5
+    },
+    {
+      "tokenId": "Azuki #7941",
+      "listPrice": 12.5
+    },
+    {
+      "tokenId": "Azuki #5380",
+      "listPrice": 12.5
+    },
+    {
+      "tokenId": "Azuki #4146",
+      "listPrice": 12.5
+    },
+    {
+      "tokenId": "Azuki #3559",
+      "listPrice": 12.5
+    },
+    {
+      "tokenId": "Azuki #4523",
+      "listPrice": 12.5
+    },
+    {
+      "tokenId": "Azuki #1884",
+      "listPrice": 12.5
+    },
+    {
+      "tokenId": "Azuki #1318",
+      "listPrice": 12.71
+    },
+    {
+      "tokenId": "Azuki #7911",
+      "listPrice": 12.777
+    },
+    {
+      "tokenId": "Azuki #7250",
+      "listPrice": 12.8
+    },
+    {
+      "tokenId": "Azuki #9663",
+      "listPrice": 12.89
+    },
+    {
+      "tokenId": "Azuki #9534",
+      "listPrice": 12.9
+    },
+    {
+      "tokenId": "Azuki #3457",
+      "listPrice": 12.98
+    },
+    {
+      "tokenId": "Azuki #9566",
+      "listPrice": 12.99
+    },
+    {
+      "tokenId": "Azuki #7271",
+      "listPrice": 12.99
+    },
+    {
+      "tokenId": "Azuki #9687",
+      "listPrice": 12.99
+    },
+    {
+      "tokenId": "Azuki #1940",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #545",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #6355",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #7140",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #514",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #8705",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #5941",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #6486",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #3270",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #3227",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #3382",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #3963",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #2595",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #1357",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #4827",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #4180",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #1368",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #5674",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #3463",
+      "listPrice": 13
+    },
+    {
+      "tokenId": "Azuki #5666",
+      "listPrice": 13.01
+    },
+    {
+      "tokenId": "Azuki #7791",
+      "listPrice": 13.19
+    },
+    {
+      "tokenId": "Azuki #1707",
+      "listPrice": 13.3
+    },
+    {
+      "tokenId": "Azuki #7472",
+      "listPrice": 13.47
+    },
+    {
+      "tokenId": "Azuki #4013",
+      "listPrice": 13.48
+    },
+    {
+      "tokenId": "Azuki #6850",
+      "listPrice": 13.49
+    },
+    {
+      "tokenId": "Azuki #3321",
+      "listPrice": 13.49
+    },
+    {
+      "tokenId": "Azuki #3508",
+      "listPrice": 13.5
+    },
+    {
+      "tokenId": "Azuki #4376",
+      "listPrice": 13.5
+    },
+    {
+      "tokenId": "Azuki #6587",
+      "listPrice": 13.5
+    },
+    {
+      "tokenId": "Azuki #6946",
+      "listPrice": 13.5
+    },
+    {
+      "tokenId": "Azuki #3423",
+      "listPrice": 13.5
+    },
+    {
+      "tokenId": "Azuki #2509",
+      "listPrice": 13.5
+    },
+    {
+      "tokenId": "Azuki #6107",
+      "listPrice": 13.5
+    },
+    {
+      "tokenId": "Azuki #9014",
+      "listPrice": 13.5
+    },
+    {
+      "tokenId": "Azuki #4062",
+      "listPrice": 13.5
+    },
+    {
+      "tokenId": "Azuki #2408",
+      "listPrice": 13.5
+    },
+    {
+      "tokenId": "Azuki #3022",
+      "listPrice": 13.5
+    },
+    {
+      "tokenId": "Azuki #9990",
+      "listPrice": 13.68
+    },
+    {
+      "tokenId": "Azuki #7252",
+      "listPrice": 13.69
+    },
+    {
+      "tokenId": "Azuki #6108",
+      "listPrice": 13.69
+    },
+    {
+      "tokenId": "Azuki #7235",
+      "listPrice": 13.69
+    },
+    {
+      "tokenId": "Azuki #7814",
+      "listPrice": 13.7
+    },
+    {
+      "tokenId": "Azuki #9325",
+      "listPrice": 13.75
+    },
+    {
+      "tokenId": "Azuki #9262",
+      "listPrice": 13.75
+    },
+    {
+      "tokenId": "Azuki #9199",
+      "listPrice": 13.75
+    },
+    {
+      "tokenId": "Azuki #2032",
+      "listPrice": 13.8
+    },
+    {
+      "tokenId": "Azuki #795",
+      "listPrice": 13.85
+    },
+    {
+      "tokenId": "Azuki #1182",
+      "listPrice": 13.89
+    },
+    {
+      "tokenId": "Azuki #6996",
+      "listPrice": 13.9
+    },
+    {
+      "tokenId": "Azuki #6495",
+      "listPrice": 13.95
+    },
+    {
+      "tokenId": "Azuki #1179",
+      "listPrice": 13.97
+    },
+    {
+      "tokenId": "Azuki #7770",
+      "listPrice": 13.97
+    },
+    {
+      "tokenId": "Azuki #6544",
+      "listPrice": 13.99
+    },
+    {
+      "tokenId": "Azuki #6858",
+      "listPrice": 13.99
+    },
+    {
+      "tokenId": "Azuki #9673",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #368",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #172",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #4780",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #4918",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #6631",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #7288",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #7649",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #3465",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #5938",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #4762",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #4525",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #8061",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #3120",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #9306",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #9436",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #1866",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #9752",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #9005",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #4272",
+      "listPrice": 14
+    },
+    {
+      "tokenId": "Azuki #4852",
+      "listPrice": 14.14
+    },
+    {
+      "tokenId": "Azuki #1291",
+      "listPrice": 14.2
+    },
+    {
+      "tokenId": "Azuki #1843",
+      "listPrice": 14.35
+    },
+    {
+      "tokenId": "Azuki #5375",
+      "listPrice": 14.4
+    },
+    {
+      "tokenId": "Azuki #2793",
+      "listPrice": 14.418
+    },
+    {
+      "tokenId": "Azuki #2430",
+      "listPrice": 14.5
+    },
+    {
+      "tokenId": "Azuki #9063",
+      "listPrice": 14.5
+    },
+    {
+      "tokenId": "Azuki #7090",
+      "listPrice": 14.5
+    },
+    {
+      "tokenId": "Azuki #4214",
+      "listPrice": 14.5
+    },
+    {
+      "tokenId": "Azuki #9028",
+      "listPrice": 14.5
+    },
+    {
+      "tokenId": "Azuki #2734",
+      "listPrice": 14.5
+    },
+    {
+      "tokenId": "Azuki #8681",
+      "listPrice": 14.5
+    },
+    {
+      "tokenId": "Azuki #9574",
+      "listPrice": 14.567
+    },
+    {
+      "tokenId": "Azuki #2597",
+      "listPrice": 14.69
+    },
+    {
+      "tokenId": "Azuki #3222",
+      "listPrice": 14.69
+    },
+    {
+      "tokenId": "Azuki #7459",
+      "listPrice": 14.7
+    },
+    {
+      "tokenId": "Azuki #3905",
+      "listPrice": 14.7
+    },
+    {
+      "tokenId": "Azuki #9545",
+      "listPrice": 14.9
+    },
+    {
+      "tokenId": "Azuki #2303",
+      "listPrice": 14.9
+    },
+    {
+      "tokenId": "Azuki #7859",
+      "listPrice": 14.9
+    },
+    {
+      "tokenId": "Azuki #2905",
+      "listPrice": 14.9
+    },
+    {
+      "tokenId": "Azuki #4688",
+      "listPrice": 14.9
+    },
+    {
+      "tokenId": "Azuki #3998",
+      "listPrice": 14.9
+    },
+    {
+      "tokenId": "Azuki #9196",
+      "listPrice": 14.97
+    },
+    {
+      "tokenId": "Azuki #9989",
+      "listPrice": 14.99
+    },
+    {
+      "tokenId": "Azuki #1249",
+      "listPrice": 14.99
+    },
+    {
+      "tokenId": "Azuki #1631",
+      "listPrice": 14.99
+    },
+    {
+      "tokenId": "Azuki #4029",
+      "listPrice": 14.99
+    },
+    {
+      "tokenId": "Azuki #5384",
+      "listPrice": 14.99
+    },
+    {
+      "tokenId": "Azuki #3507",
+      "listPrice": 14.99
+    },
+    {
+      "tokenId": "Azuki #3653",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #3287",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #9255",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #9336",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #9445",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #9287",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #8513",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #8605",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #1230",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #4157",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #4164",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #4133",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #5368",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #5493",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #5528",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #480",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #9920",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #1359",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #8960",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #5937",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #1793",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #9614",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #8946",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #5956",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #451",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #237",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #6232",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #6366",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #6896",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #7524",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #9739",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #8092",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #9007",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #4930",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #3253",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #918",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #4065",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #5302",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #4449",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #5452",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #1159",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #4252",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #5318",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #3311",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #4987",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #229",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #4205",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #7835",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #1812",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #4204",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #5090",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #3355",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #1874",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #5972",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #8987",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #3378",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #473",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #3643",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #3774",
+      "listPrice": 15
+    },
+    {
+      "tokenId": "Azuki #6646",
+      "listPrice": 15.5
+    },
+    {
+      "tokenId": "Azuki #660",
+      "listPrice": 15.5
+    },
+    {
+      "tokenId": "Azuki #686",
+      "listPrice": 15.5
+    },
+    {
+      "tokenId": "Azuki #6880",
+      "listPrice": 15.5
+    },
+    {
+      "tokenId": "Azuki #7748",
+      "listPrice": 15.5
+    },
+    {
+      "tokenId": "Azuki #3075",
+      "listPrice": 15.5
+    },
+    {
+      "tokenId": "Azuki #9168",
+      "listPrice": 15.5
+    },
+    {
+      "tokenId": "Azuki #8811",
+      "listPrice": 15.55
+    },
+    {
+      "tokenId": "Azuki #1970",
+      "listPrice": 15.6
+    },
+    {
+      "tokenId": "Azuki #7509",
+      "listPrice": 15.69
+    },
+    {
+      "tokenId": "Azuki #7402",
+      "listPrice": 15.69
+    },
+    {
+      "tokenId": "Azuki #3708",
+      "listPrice": 15.69
+    },
+    {
+      "tokenId": "Azuki #5397",
+      "listPrice": 15.8
+    },
+    {
+      "tokenId": "Azuki #6645",
+      "listPrice": 15.8
+    },
+    {
+      "tokenId": "Azuki #1262",
+      "listPrice": 15.8
+    },
+    {
+      "tokenId": "Azuki #5094",
+      "listPrice": 15.85
+    },
+    {
+      "tokenId": "Azuki #9368",
+      "listPrice": 15.88
+    },
+    {
+      "tokenId": "Azuki #2382",
+      "listPrice": 15.88
+    },
+    {
+      "tokenId": "Azuki #2518",
+      "listPrice": 15.9
+    },
+    {
+      "tokenId": "Azuki #7846",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #6962",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #8839",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #7517",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #9299",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #498",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #7737",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #4908",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #5299",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #5399",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #5672",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #5719",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #5791",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #5805",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #6653",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #7905",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #1604",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #2379",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #2725",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #1315",
+      "listPrice": 16
+    },
+    {
+      "tokenId": "Azuki #8641",
+      "listPrice": 16.4
+    },
+    {
+      "tokenId": "Azuki #1882",
+      "listPrice": 16.45
+    },
+    {
+      "tokenId": "Azuki #6083",
+      "listPrice": 16.5
+    },
+    {
+      "tokenId": "Azuki #9418",
+      "listPrice": 16.5
+    },
+    {
+      "tokenId": "Azuki #3456",
+      "listPrice": 16.5
+    },
+    {
+      "tokenId": "Azuki #8486",
+      "listPrice": 16.69
+    },
+    {
+      "tokenId": "Azuki #4976",
+      "listPrice": 16.69
+    },
+    {
+      "tokenId": "Azuki #1840",
+      "listPrice": 16.7
+    },
+    {
+      "tokenId": "Azuki #2026",
+      "listPrice": 16.75
+    },
+    {
+      "tokenId": "Azuki #5735",
+      "listPrice": 16.8
+    },
+    {
+      "tokenId": "Azuki #9298",
+      "listPrice": 16.88
+    },
+    {
+      "tokenId": "Azuki #4128",
+      "listPrice": 16.9
+    },
+    {
+      "tokenId": "Azuki #4640",
+      "listPrice": 16.9
+    },
+    {
+      "tokenId": "Azuki #5084",
+      "listPrice": 16.9
+    },
+    {
+      "tokenId": "Azuki #9275",
+      "listPrice": 16.94201
+    },
+    {
+      "tokenId": "Azuki #1622",
+      "listPrice": 16.98
+    },
+    {
+      "tokenId": "Azuki #1996",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #2263",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #8751",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #8171",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #9880",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #9804",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #9905",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #9930",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #714",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #2569",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #3947",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #5516",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #4863",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #9349",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #2335",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #2719",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #5612",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #3238",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #2638",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #3410",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #3554",
+      "listPrice": 17
+    },
+    {
+      "tokenId": "Azuki #3462",
+      "listPrice": 17.11
+    },
+    {
+      "tokenId": "Azuki #6741",
+      "listPrice": 17.2
+    },
+    {
+      "tokenId": "Azuki #8713",
+      "listPrice": 17.25
+    },
+    {
+      "tokenId": "Azuki #2063",
+      "listPrice": 17.3
+    },
+    {
+      "tokenId": "Azuki #9142",
+      "listPrice": 17.389
+    },
+    {
+      "tokenId": "Azuki #5591",
+      "listPrice": 17.45
+    },
+    {
+      "tokenId": "Azuki #7471",
+      "listPrice": 17.479
+    },
+    {
+      "tokenId": "Azuki #3422",
+      "listPrice": 17.5
+    },
+    {
+      "tokenId": "Azuki #7529",
+      "listPrice": 17.5
+    },
+    {
+      "tokenId": "Azuki #4971",
+      "listPrice": 17.5
+    },
+    {
+      "tokenId": "Azuki #7600",
+      "listPrice": 17.5
+    },
+    {
+      "tokenId": "Azuki #3498",
+      "listPrice": 17.69
+    },
+    {
+      "tokenId": "Azuki #5577",
+      "listPrice": 17.7
+    },
+    {
+      "tokenId": "Azuki #5557",
+      "listPrice": 17.7
+    },
+    {
+      "tokenId": "Azuki #2680",
+      "listPrice": 17.8
+    },
+    {
+      "tokenId": "Azuki #9176",
+      "listPrice": 17.89
+    },
+    {
+      "tokenId": "Azuki #1016",
+      "listPrice": 17.9
+    },
+    {
+      "tokenId": "Azuki #8291",
+      "listPrice": 17.9
+    },
+    {
+      "tokenId": "Azuki #2685",
+      "listPrice": 17.9
+    },
+    {
+      "tokenId": "Azuki #9515",
+      "listPrice": 17.9
+    },
+    {
+      "tokenId": "Azuki #8379",
+      "listPrice": 17.9
+    },
+    {
+      "tokenId": "Azuki #7297",
+      "listPrice": 17.99
+    },
+    {
+      "tokenId": "Azuki #4069",
+      "listPrice": 17.99
+    },
+    {
+      "tokenId": "Azuki #3078",
+      "listPrice": 17.99
+    },
+    {
+      "tokenId": "Azuki #3512",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #1794",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #4459",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #1034",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #9034",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #8215",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #8124",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #1133",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #4051",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #5806",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #4715",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #3289",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #4638",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #4810",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #5471",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #7518",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #7706",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #2930",
+      "listPrice": 18
+    },
+    {
+      "tokenId": "Azuki #4548",
+      "listPrice": 18.2
+    },
+    {
+      "tokenId": "Azuki #5033",
+      "listPrice": 18.45
+    },
+    {
+      "tokenId": "Azuki #1233",
+      "listPrice": 18.48
+    },
+    {
+      "tokenId": "Azuki #9943",
+      "listPrice": 18.5
+    },
+    {
+      "tokenId": "Azuki #5571",
+      "listPrice": 18.5
+    },
+    {
+      "tokenId": "Azuki #4681",
+      "listPrice": 18.5
+    },
+    {
+      "tokenId": "Azuki #8034",
+      "listPrice": 18.5
+    },
+    {
+      "tokenId": "Azuki #2543",
+      "listPrice": 18.66
+    },
+    {
+      "tokenId": "Azuki #4933",
+      "listPrice": 18.68
+    },
+    {
+      "tokenId": "Azuki #6733",
+      "listPrice": 18.69
+    },
+    {
+      "tokenId": "Azuki #9465",
+      "listPrice": 18.7
+    },
+    {
+      "tokenId": "Azuki #9022",
+      "listPrice": 18.8
+    },
+    {
+      "tokenId": "Azuki #7118",
+      "listPrice": 18.8
+    },
+    {
+      "tokenId": "Azuki #7762",
+      "listPrice": 18.8
+    },
+    {
+      "tokenId": "Azuki #861",
+      "listPrice": 18.8
+    },
+    {
+      "tokenId": "Azuki #6899",
+      "listPrice": 18.81
+    },
+    {
+      "tokenId": "Azuki #1655",
+      "listPrice": 18.88
+    },
+    {
+      "tokenId": "Azuki #4708",
+      "listPrice": 18.88
+    },
+    {
+      "tokenId": "Azuki #7328",
+      "listPrice": 18.9
+    },
+    {
+      "tokenId": "Azuki #8853",
+      "listPrice": 18.99
+    },
+    {
+      "tokenId": "Azuki #5415",
+      "listPrice": 18.99
+    },
+    {
+      "tokenId": "Azuki #874",
+      "listPrice": 19
+    },
+    {
+      "tokenId": "Azuki #4991",
+      "listPrice": 19
+    },
+    {
+      "tokenId": "Azuki #5867",
+      "listPrice": 19
+    },
+    {
+      "tokenId": "Azuki #8636",
+      "listPrice": 19
+    },
+    {
+      "tokenId": "Azuki #6318",
+      "listPrice": 19
+    },
+    {
+      "tokenId": "Azuki #6627",
+      "listPrice": 19
+    },
+    {
+      "tokenId": "Azuki #4602",
+      "listPrice": 19
+    },
+    {
+      "tokenId": "Azuki #3524",
+      "listPrice": 19
+    },
+    {
+      "tokenId": "Azuki #3801",
+      "listPrice": 19
+    },
+    {
+      "tokenId": "Azuki #2884",
+      "listPrice": 19
+    },
+    {
+      "tokenId": "Azuki #3224",
+      "listPrice": 19
+    },
+    {
+      "tokenId": "Azuki #5484",
+      "listPrice": 19.2
+    },
+    {
+      "tokenId": "Azuki #3070",
+      "listPrice": 19.2
+    },
+    {
+      "tokenId": "Azuki #7122",
+      "listPrice": 19.45
+    },
+    {
+      "tokenId": "Azuki #8000",
+      "listPrice": 19.49
+    },
+    {
+      "tokenId": "Azuki #5300",
+      "listPrice": 19.49
+    },
+    {
+      "tokenId": "Azuki #1682",
+      "listPrice": 19.5
+    },
+    {
+      "tokenId": "Azuki #715",
+      "listPrice": 19.5
+    },
+    {
+      "tokenId": "Azuki #7484",
+      "listPrice": 19.5
+    },
+    {
+      "tokenId": "Azuki #7467",
+      "listPrice": 19.5
+    },
+    {
+      "tokenId": "Azuki #1796",
+      "listPrice": 19.69
+    },
+    {
+      "tokenId": "Azuki #4034",
+      "listPrice": 19.69
+    },
+    {
+      "tokenId": "Azuki #2223",
+      "listPrice": 19.69
+    },
+    {
+      "tokenId": "Azuki #4106",
+      "listPrice": 19.7979
+    },
+    {
+      "tokenId": "Azuki #6727",
+      "listPrice": 19.8
+    },
+    {
+      "tokenId": "Azuki #7074",
+      "listPrice": 19.8
+    },
+    {
+      "tokenId": "Azuki #5336",
+      "listPrice": 19.8
+    },
+    {
+      "tokenId": "Azuki #7469",
+      "listPrice": 19.88
+    },
+    {
+      "tokenId": "Azuki #3661",
+      "listPrice": 19.88
+    },
+    {
+      "tokenId": "Azuki #7973",
+      "listPrice": 19.9
+    },
+    {
+      "tokenId": "Azuki #5800",
+      "listPrice": 19.9
+    },
+    {
+      "tokenId": "Azuki #297",
+      "listPrice": 19.9
+    },
+    {
+      "tokenId": "Azuki #9843",
+      "listPrice": 19.97
+    },
+    {
+      "tokenId": "Azuki #1265",
+      "listPrice": 19.999
+    },
+    {
+      "tokenId": "Azuki #8298",
+      "listPrice": 19.999
+    },
+    {
+      "tokenId": "Azuki #793",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #298",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #6258",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #6308",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #7336",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #9615",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #1027",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #9096",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #6315",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #8691",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #1355",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #3202",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #8074",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #7942",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #1428",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #9541",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #2707",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #1980",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #7721",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #9640",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #6470",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #1268",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #9996",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #3715",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #6755",
+      "listPrice": 20
+    },
+    {
+      "tokenId": "Azuki #3686",
+      "listPrice": 20.18
+    },
+    {
+      "tokenId": "Azuki #817",
+      "listPrice": 20.5
+    },
+    {
+      "tokenId": "Azuki #4259",
+      "listPrice": 20.69
+    },
+    {
+      "tokenId": "Azuki #1649",
+      "listPrice": 20.69
+    },
+    {
+      "tokenId": "Azuki #7681",
+      "listPrice": 21
+    },
+    {
+      "tokenId": "Azuki #7168",
+      "listPrice": null
+    },
+    {
+      "tokenId": "Azuki #7925",
+      "listPrice": 21
+    },
+    {
+      "tokenId": "Azuki #413",
+      "listPrice": 21
+    },
+    {
+      "tokenId": "Azuki #7154",
+      "listPrice": 21
+    },
+    {
+      "tokenId": "Azuki #8986",
+      "listPrice": 21
+    },
+    {
+      "tokenId": "Azuki #6992",
+      "listPrice": 21
+    },
+    {
+      "tokenId": "Azuki #7920",
+      "listPrice": 21
+    },
+    {
+      "tokenId": "Azuki #8159",
+      "listPrice": 21
+    },
+    {
+      "tokenId": "Azuki #1162",
+      "listPrice": 21
+    },
+    {
+      "tokenId": "Azuki #7099",
+      "listPrice": 21.1
+    },
+    {
+      "tokenId": "Azuki #9271",
+      "listPrice": 21.1
+    },
+    {
+      "tokenId": "Azuki #265",
+      "listPrice": 21.18
+    },
+    {
+      "tokenId": "Azuki #8472",
+      "listPrice": 21.34
+    },
+    {
+      "tokenId": "Azuki #8437",
+      "listPrice": 21.69
+    },
+    {
+      "tokenId": "Azuki #6196",
+      "listPrice": 21.69
+    },
+    {
+      "tokenId": "Azuki #5206",
+      "listPrice": 21.69
+    },
+    {
+      "tokenId": "Azuki #7579",
+      "listPrice": 21.69
+    },
+    {
+      "tokenId": "Azuki #8737",
+      "listPrice": 21.69
+    },
+    {
+      "tokenId": "Azuki #2908",
+      "listPrice": 21.98
+    },
+    {
+      "tokenId": "Azuki #5712",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #9831",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #8371",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #6102",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #8340",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #7050",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #6186",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #3927",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #3852",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #8127",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #3124",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #607",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #3223",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #2192",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #3659",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #3357",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #2526",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #2508",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #268",
+      "listPrice": 22
+    },
+    {
+      "tokenId": "Azuki #433",
+      "listPrice": 22.15
+    },
+    {
+      "tokenId": "Azuki #8895",
+      "listPrice": 22.2
+    },
+    {
+      "tokenId": "Azuki #6723",
+      "listPrice": 22.22
+    },
+    {
+      "tokenId": "Azuki #58",
+      "listPrice": 22.22
+    },
+    {
+      "tokenId": "Azuki #7852",
+      "listPrice": 22.22
+    },
+    {
+      "tokenId": "Azuki #281",
+      "listPrice": 22.22
+    },
+    {
+      "tokenId": "Azuki #4075",
+      "listPrice": 22.2222
+    },
+    {
+      "tokenId": "Azuki #8656",
+      "listPrice": 22.49
+    },
+    {
+      "tokenId": "Azuki #6030",
+      "listPrice": 22.5
+    },
+    {
+      "tokenId": "Azuki #3562",
+      "listPrice": 22.5
+    },
+    {
+      "tokenId": "Azuki #5718",
+      "listPrice": 22.8
+    },
+    {
+      "tokenId": "Azuki #5337",
+      "listPrice": 22.99
+    },
+    {
+      "tokenId": "Azuki #7153",
+      "listPrice": 22.99
+    },
+    {
+      "tokenId": "Azuki #4953",
+      "listPrice": 22.99
+    },
+    {
+      "tokenId": "Azuki #9505",
+      "listPrice": 23
+    },
+    {
+      "tokenId": "Azuki #7132",
+      "listPrice": 23
+    },
+    {
+      "tokenId": "Azuki #6163",
+      "listPrice": 23
+    },
+    {
+      "tokenId": "Azuki #7547",
+      "listPrice": 23
+    },
+    {
+      "tokenId": "Azuki #8357",
+      "listPrice": 23
+    },
+    {
+      "tokenId": "Azuki #9152",
+      "listPrice": 23
+    },
+    {
+      "tokenId": "Azuki #4360",
+      "listPrice": 23
+    },
+    {
+      "tokenId": "Azuki #2957",
+      "listPrice": 23
+    },
+    {
+      "tokenId": "Azuki #4539",
+      "listPrice": 23
+    },
+    {
+      "tokenId": "Azuki #656",
+      "listPrice": 23
+    },
+    {
+      "tokenId": "Azuki #4670",
+      "listPrice": 23
+    },
+    {
+      "tokenId": "Azuki #2712",
+      "listPrice": 23.2323
+    },
+    {
+      "tokenId": "Azuki #4102",
+      "listPrice": 23.2323
+    },
+    {
+      "tokenId": "Azuki #9783",
+      "listPrice": 23.2323
+    },
+    {
+      "tokenId": "Azuki #1104",
+      "listPrice": 23.33
+    },
+    {
+      "tokenId": "Azuki #8893",
+      "listPrice": 23.33
+    },
+    {
+      "tokenId": "Azuki #7661",
+      "listPrice": 23.5
+    },
+    {
+      "tokenId": "Azuki #6798",
+      "listPrice": 23.8
+    },
+    {
+      "tokenId": "Azuki #2594",
+      "listPrice": 23.8
+    },
+    {
+      "tokenId": "Azuki #4124",
+      "listPrice": 23.88
+    },
+    {
+      "tokenId": "Azuki #9674",
+      "listPrice": 23.88
+    },
+    {
+      "tokenId": "Azuki #8746",
+      "listPrice": 23.9
+    },
+    {
+      "tokenId": "Azuki #2715",
+      "listPrice": 23.9
+    },
+    {
+      "tokenId": "Azuki #3389",
+      "listPrice": 23.99
+    },
+    {
+      "tokenId": "Azuki #2136",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #561",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #5770",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #3408",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #4163",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #7000",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #9426",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #1321",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #5786",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #9762",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #286",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #7722",
+      "listPrice": 24
+    },
+    {
+      "tokenId": "Azuki #4676",
+      "listPrice": 24.2
+    },
+    {
+      "tokenId": "Azuki #7457",
+      "listPrice": 24.5
+    },
+    {
+      "tokenId": "Azuki #3191",
+      "listPrice": 24.69
+    },
+    {
+      "tokenId": "Azuki #1394",
+      "listPrice": 24.89
+    },
+    {
+      "tokenId": "Azuki #9317",
+      "listPrice": 24.95
+    },
+    {
+      "tokenId": "Azuki #5457",
+      "listPrice": 24.95
+    },
+    {
+      "tokenId": "Azuki #9270",
+      "listPrice": 24.98
+    },
+    {
+      "tokenId": "Azuki #1256",
+      "listPrice": 24.99
+    },
+    {
+      "tokenId": "Azuki #1919",
+      "listPrice": 24.99999999
+    },
+    {
+      "tokenId": "Azuki #4941",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #8031",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #4531",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #6542",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #7015",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #6106",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #981",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #541",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #2513",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #2432",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #9049",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #7740",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #5394",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #8510",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #2018",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #2427",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #2751",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #540",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #8149",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #6199",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #8973",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #4322",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #7573",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #9202",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #3803",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #3784",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #669",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #6065",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #381",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #8362",
+      "listPrice": 25
+    },
+    {
+      "tokenId": "Azuki #1654",
+      "listPrice": 25.49
+    },
+    {
+      "tokenId": "Azuki #8064",
+      "listPrice": 25.69
+    },
+    {
+      "tokenId": "Azuki #1532",
+      "listPrice": 25.75
+    },
+    {
+      "tokenId": "Azuki #88",
+      "listPrice": 25.8888888888
+    },
+    {
+      "tokenId": "Azuki #7124",
+      "listPrice": 25.99
+    },
+    {
+      "tokenId": "Azuki #9845",
+      "listPrice": 26
+    },
+    {
+      "tokenId": "Azuki #5789",
+      "listPrice": 26
+    },
+    {
+      "tokenId": "Azuki #4996",
+      "listPrice": 26
+    },
+    {
+      "tokenId": "Azuki #3785",
+      "listPrice": 26
+    },
+    {
+      "tokenId": "Azuki #5148",
+      "listPrice": 26
+    },
+    {
+      "tokenId": "Azuki #6881",
+      "listPrice": 26
+    },
+    {
+      "tokenId": "Azuki #1530",
+      "listPrice": 26
+    },
+    {
+      "tokenId": "Azuki #3980",
+      "listPrice": 26
+    },
+    {
+      "tokenId": "Azuki #2584",
+      "listPrice": 26
+    },
+    {
+      "tokenId": "Azuki #2504",
+      "listPrice": 26
+    },
+    {
+      "tokenId": "Azuki #9025",
+      "listPrice": 26.5
+    },
+    {
+      "tokenId": "Azuki #6277",
+      "listPrice": 26.5
+    },
+    {
+      "tokenId": "Azuki #4132",
+      "listPrice": 26.69
+    },
+    {
+      "tokenId": "Azuki #6173",
+      "listPrice": 26.9
+    },
+    {
+      "tokenId": "Azuki #7799",
+      "listPrice": 26.9
+    },
+    {
+      "tokenId": "Azuki #5416",
+      "listPrice": 27
+    },
+    {
+      "tokenId": "Azuki #5271",
+      "listPrice": 27
+    },
+    {
+      "tokenId": "Azuki #5991",
+      "listPrice": 27
+    },
+    {
+      "tokenId": "Azuki #8191",
+      "listPrice": 27
+    },
+    {
+      "tokenId": "Azuki #7805",
+      "listPrice": 27
+    },
+    {
+      "tokenId": "Azuki #8852",
+      "listPrice": 27
+    },
+    {
+      "tokenId": "Azuki #4347",
+      "listPrice": 27
+    },
+    {
+      "tokenId": "Azuki #2344",
+      "listPrice": 27
+    },
+    {
+      "tokenId": "Azuki #5388",
+      "listPrice": 27.5
+    },
+    {
+      "tokenId": "Azuki #3291",
+      "listPrice": 27.5
+    },
+    {
+      "tokenId": "Azuki #9452",
+      "listPrice": 27.5
+    },
+    {
+      "tokenId": "Azuki #6718",
+      "listPrice": 27.9
+    },
+    {
+      "tokenId": "Azuki #2585",
+      "listPrice": 27.9
+    },
+    {
+      "tokenId": "Azuki #8282",
+      "listPrice": 27.99
+    },
+    {
+      "tokenId": "Azuki #6432",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #7249",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #6492",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #9564",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #8950",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #967",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #447",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #6939",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #1381",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #1339",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #5739",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #3473",
+      "listPrice": 28
+    },
+    {
+      "tokenId": "Azuki #8671",
+      "listPrice": 28.5
+    },
+    {
+      "tokenId": "Azuki #6354",
+      "listPrice": 28.8
+    },
+    {
+      "tokenId": "Azuki #9785",
+      "listPrice": 28.8
+    },
+    {
+      "tokenId": "Azuki #9075",
+      "listPrice": 28.8
+    },
+    {
+      "tokenId": "Azuki #5479",
+      "listPrice": 28.8
+    },
+    {
+      "tokenId": "Azuki #3115",
+      "listPrice": 28.888
+    },
+    {
+      "tokenId": "Azuki #2201",
+      "listPrice": 28.98
+    },
+    {
+      "tokenId": "Azuki #2266",
+      "listPrice": 28.99
+    },
+    {
+      "tokenId": "Azuki #3424",
+      "listPrice": 28.99
+    },
+    {
+      "tokenId": "Azuki #4466",
+      "listPrice": 29
+    },
+    {
+      "tokenId": "Azuki #9685",
+      "listPrice": 29
+    },
+    {
+      "tokenId": "Azuki #8242",
+      "listPrice": 29
+    },
+    {
+      "tokenId": "Azuki #7478",
+      "listPrice": 29
+    },
+    {
+      "tokenId": "Azuki #4697",
+      "listPrice": 29
+    },
+    {
+      "tokenId": "Azuki #5205",
+      "listPrice": 29.5
+    },
+    {
+      "tokenId": "Azuki #2267",
+      "listPrice": 29.5
+    },
+    {
+      "tokenId": "Azuki #332",
+      "listPrice": 29.69
+    },
+    {
+      "tokenId": "Azuki #2738",
+      "listPrice": 29.69
+    },
+    {
+      "tokenId": "Azuki #1950",
+      "listPrice": 29.77
+    },
+    {
+      "tokenId": "Azuki #2142",
+      "listPrice": 29.8
+    },
+    {
+      "tokenId": "Azuki #269",
+      "listPrice": 29.88
+    },
+    {
+      "tokenId": "Azuki #9058",
+      "listPrice": 29.89
+    },
+    {
+      "tokenId": "Azuki #720",
+      "listPrice": 29.9
+    },
+    {
+      "tokenId": "Azuki #1156",
+      "listPrice": 29.9
+    },
+    {
+      "tokenId": "Azuki #7531",
+      "listPrice": 29.9
+    },
+    {
+      "tokenId": "Azuki #1684",
+      "listPrice": 29.99
+    },
+    {
+      "tokenId": "Azuki #4434",
+      "listPrice": 29.99
+    },
+    {
+      "tokenId": "Azuki #3615",
+      "listPrice": 29.99
+    },
+    {
+      "tokenId": "Azuki #4854",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #6234",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #7637",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #9438",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #5304",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #8680",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #5647",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #5902",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #5903",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #5688",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #5864",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #1379",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #3605",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #6927",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #241",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #8067",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #1008",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #9567",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #7830",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #5743",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #9268",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #9387",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #7453",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #4182",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #555",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #1409",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #2177",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #4922",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #4595",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #9246",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #3543",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #3670",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #2489",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #1539",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #3451",
+      "listPrice": 30
+    },
+    {
+      "tokenId": "Azuki #9023",
+      "listPrice": 31
+    },
+    {
+      "tokenId": "Azuki #8808",
+      "listPrice": 31
+    },
+    {
+      "tokenId": "Azuki #3016",
+      "listPrice": 31.25
+    },
+    {
+      "tokenId": "Azuki #5315",
+      "listPrice": 31.5
+    },
+    {
+      "tokenId": "Azuki #1619",
+      "listPrice": 31.5
+    },
+    {
+      "tokenId": "Azuki #3877",
+      "listPrice": 31.5
+    },
+    {
+      "tokenId": "Azuki #9084",
+      "listPrice": 32
+    },
+    {
+      "tokenId": "Azuki #8063",
+      "listPrice": 32
+    },
+    {
+      "tokenId": "Azuki #6576",
+      "listPrice": 32
+    },
+    {
+      "tokenId": "Azuki #6351",
+      "listPrice": 32
+    },
+    {
+      "tokenId": "Azuki #3277",
+      "listPrice": 32
+    },
+    {
+      "tokenId": "Azuki #3074",
+      "listPrice": 32
+    },
+    {
+      "tokenId": "Azuki #4305",
+      "listPrice": 32
+    },
+    {
+      "tokenId": "Azuki #2708",
+      "listPrice": 32
+    },
+    {
+      "tokenId": "Azuki #2601",
+      "listPrice": 32
+    },
+    {
+      "tokenId": "Azuki #7363",
+      "listPrice": 32.5
+    },
+    {
+      "tokenId": "Azuki #7863",
+      "listPrice": 32.5
+    },
+    {
+      "tokenId": "Azuki #6296",
+      "listPrice": 32.5
+    },
+    {
+      "tokenId": "Azuki #3011",
+      "listPrice": 32.5
+    },
+    {
+      "tokenId": "Azuki #6801",
+      "listPrice": 32.6
+    },
+    {
+      "tokenId": "Azuki #9758",
+      "listPrice": 32.69
+    },
+    {
+      "tokenId": "Azuki #4392",
+      "listPrice": 32.69
+    },
+    {
+      "tokenId": "Azuki #842",
+      "listPrice": 32.75
+    },
+    {
+      "tokenId": "Azuki #2058",
+      "listPrice": 32.88
+    },
+    {
+      "tokenId": "Azuki #5609",
+      "listPrice": 33
+    },
+    {
+      "tokenId": "Azuki #2459",
+      "listPrice": 33
+    },
+    {
+      "tokenId": "Azuki #7765",
+      "listPrice": 33
+    },
+    {
+      "tokenId": "Azuki #5243",
+      "listPrice": 33
+    },
+    {
+      "tokenId": "Azuki #3897",
+      "listPrice": 33
+    },
+    {
+      "tokenId": "Azuki #4739",
+      "listPrice": 33
+    },
+    {
+      "tokenId": "Azuki #3060",
+      "listPrice": 33
+    },
+    {
+      "tokenId": "Azuki #2580",
+      "listPrice": 33
+    },
+    {
+      "tokenId": "Azuki #1025",
+      "listPrice": 33.3
+    },
+    {
+      "tokenId": "Azuki #4411",
+      "listPrice": 33.33
+    },
+    {
+      "tokenId": "Azuki #4374",
+      "listPrice": 33.33
+    },
+    {
+      "tokenId": "Azuki #7486",
+      "listPrice": 33.333
+    },
+    {
+      "tokenId": "Azuki #8664",
+      "listPrice": 33.44
+    },
+    {
+      "tokenId": "Azuki #5303",
+      "listPrice": 33.69
+    },
+    {
+      "tokenId": "Azuki #7610",
+      "listPrice": 33.8
+    },
+    {
+      "tokenId": "Azuki #5360",
+      "listPrice": 33.88
+    },
+    {
+      "tokenId": "Azuki #2208",
+      "listPrice": 33.9
+    },
+    {
+      "tokenId": "Azuki #7884",
+      "listPrice": 34
+    },
+    {
+      "tokenId": "Azuki #8786",
+      "listPrice": 34
+    },
+    {
+      "tokenId": "Azuki #7366",
+      "listPrice": 34
+    },
+    {
+      "tokenId": "Azuki #5733",
+      "listPrice": 34
+    },
+    {
+      "tokenId": "Azuki #1122",
+      "listPrice": 34
+    },
+    {
+      "tokenId": "Azuki #5079",
+      "listPrice": 34
+    },
+    {
+      "tokenId": "Azuki #1816",
+      "listPrice": 34
+    },
+    {
+      "tokenId": "Azuki #1550",
+      "listPrice": 34
+    },
+    {
+      "tokenId": "Azuki #1605",
+      "listPrice": 34
+    },
+    {
+      "tokenId": "Azuki #1708",
+      "listPrice": 34.35
+    },
+    {
+      "tokenId": "Azuki #7715",
+      "listPrice": 34.56
+    },
+    {
+      "tokenId": "Azuki #8343",
+      "listPrice": 34.69
+    },
+    {
+      "tokenId": "Azuki #3808",
+      "listPrice": 34.69
+    },
+    {
+      "tokenId": "Azuki #4839",
+      "listPrice": 34.89
+    },
+    {
+      "tokenId": "Azuki #7778",
+      "listPrice": 34.9
+    },
+    {
+      "tokenId": "Azuki #3122",
+      "listPrice": 34.9
+    },
+    {
+      "tokenId": "Azuki #8339",
+      "listPrice": 34.99
+    },
+    {
+      "tokenId": "Azuki #8965",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #5745",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #9668",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #9633",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #5862",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #8783",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #6297",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #9360",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #7597",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #6799",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #6595",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #4763",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #5013",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #7818",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #5533",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #7798",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #534",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #1263",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #985",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #245",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #5193",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #242",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #9879",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #3097",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #4924",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #2704",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #4318",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #4579",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #1238",
+      "listPrice": 35
+    },
+    {
+      "tokenId": "Azuki #5498",
+      "listPrice": 35.35
+    },
+    {
+      "tokenId": "Azuki #3132",
+      "listPrice": 35.55
+    },
+    {
+      "tokenId": "Azuki #4460",
+      "listPrice": 35.69
+    },
+    {
+      "tokenId": "Azuki #7343",
+      "listPrice": 35.77
+    },
+    {
+      "tokenId": "Azuki #7760",
+      "listPrice": 35.9
+    },
+    {
+      "tokenId": "Azuki #6418",
+      "listPrice": 35.98
+    },
+    {
+      "tokenId": "Azuki #701",
+      "listPrice": 36
+    },
+    {
+      "tokenId": "Azuki #4346",
+      "listPrice": 36
+    },
+    {
+      "tokenId": "Azuki #4955",
+      "listPrice": 36.69
+    },
+    {
+      "tokenId": "Azuki #1096",
+      "listPrice": 36.69
+    },
+    {
+      "tokenId": "Azuki #8377",
+      "listPrice": 37
+    },
+    {
+      "tokenId": "Azuki #8663",
+      "listPrice": 37
+    },
+    {
+      "tokenId": "Azuki #7404",
+      "listPrice": 37
+    },
+    {
+      "tokenId": "Azuki #3210",
+      "listPrice": 37
+    },
+    {
+      "tokenId": "Azuki #9870",
+      "listPrice": 37
+    },
+    {
+      "tokenId": "Azuki #3901",
+      "listPrice": 37
+    },
+    {
+      "tokenId": "Azuki #5387",
+      "listPrice": 37.5
+    },
+    {
+      "tokenId": "Azuki #8964",
+      "listPrice": 37.89
+    },
+    {
+      "tokenId": "Azuki #2550",
+      "listPrice": 37.899
+    },
+    {
+      "tokenId": "Azuki #8761",
+      "listPrice": 38
+    },
+    {
+      "tokenId": "Azuki #4243",
+      "listPrice": 38
+    },
+    {
+      "tokenId": "Azuki #7676",
+      "listPrice": 38
+    },
+    {
+      "tokenId": "Azuki #7655",
+      "listPrice": 38
+    },
+    {
+      "tokenId": "Azuki #626",
+      "listPrice": 38
+    },
+    {
+      "tokenId": "Azuki #1863",
+      "listPrice": 38
+    },
+    {
+      "tokenId": "Azuki #4635",
+      "listPrice": 38
+    },
+    {
+      "tokenId": "Azuki #1200",
+      "listPrice": 38.8
+    },
+    {
+      "tokenId": "Azuki #1767",
+      "listPrice": 38.8
+    },
+    {
+      "tokenId": "Azuki #7904",
+      "listPrice": 38.888
+    },
+    {
+      "tokenId": "Azuki #8819",
+      "listPrice": 38.9
+    },
+    {
+      "tokenId": "Azuki #4826",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #6359",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #6873",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #5469",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #8759",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #5796",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #8991",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #3369",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #2834",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #3470",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #5454",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #2903",
+      "listPrice": 39
+    },
+    {
+      "tokenId": "Azuki #2324",
+      "listPrice": 39.5
+    },
+    {
+      "tokenId": "Azuki #4495",
+      "listPrice": 39.888
+    },
+    {
+      "tokenId": "Azuki #1100",
+      "listPrice": 39.9
+    },
+    {
+      "tokenId": "Azuki #7683",
+      "listPrice": 39.9
+    },
+    {
+      "tokenId": "Azuki #5421",
+      "listPrice": 39.99
+    },
+    {
+      "tokenId": "Azuki #416",
+      "listPrice": 39.99
+    },
+    {
+      "tokenId": "Azuki #3645",
+      "listPrice": 39.99
+    },
+    {
+      "tokenId": "Azuki #5759",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #8959",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #6468",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #6588",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #5031",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #5866",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #8608",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #8600",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #9577",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #5684",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #6010",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #5009",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #2493",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #4257",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #1069",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #2676",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #8249",
+      "listPrice": 40
+    },
+    {
+      "tokenId": "Azuki #8090",
+      "listPrice": 40.6
+    },
+    {
+      "tokenId": "Azuki #6950",
+      "listPrice": 41.5
+    },
+    {
+      "tokenId": "Azuki #9478",
+      "listPrice": 42
+    },
+    {
+      "tokenId": "Azuki #204",
+      "listPrice": 42
+    },
+    {
+      "tokenId": "Azuki #916",
+      "listPrice": 42
+    },
+    {
+      "tokenId": "Azuki #8369",
+      "listPrice": 42
+    },
+    {
+      "tokenId": "Azuki #2044",
+      "listPrice": 42
+    },
+    {
+      "tokenId": "Azuki #4274",
+      "listPrice": 42
+    },
+    {
+      "tokenId": "Azuki #4409",
+      "listPrice": 42
+    },
+    {
+      "tokenId": "Azuki #6893",
+      "listPrice": 42.069
+    },
+    {
+      "tokenId": "Azuki #4114",
+      "listPrice": 42.069
+    },
+    {
+      "tokenId": "Azuki #8572",
+      "listPrice": 42.24
+    },
+    {
+      "tokenId": "Azuki #1293",
+      "listPrice": 42.69
+    },
+    {
+      "tokenId": "Azuki #3541",
+      "listPrice": 42.69
+    },
+    {
+      "tokenId": "Azuki #2711",
+      "listPrice": 42.88
+    },
+    {
+      "tokenId": "Azuki #5923",
+      "listPrice": 43
+    },
+    {
+      "tokenId": "Azuki #8544",
+      "listPrice": 43
+    },
+    {
+      "tokenId": "Azuki #8052",
+      "listPrice": 43
+    },
+    {
+      "tokenId": "Azuki #2273",
+      "listPrice": 43
+    },
+    {
+      "tokenId": "Azuki #5499",
+      "listPrice": 43.33
+    },
+    {
+      "tokenId": "Azuki #7903",
+      "listPrice": 44
+    },
+    {
+      "tokenId": "Azuki #7885",
+      "listPrice": 44
+    },
+    {
+      "tokenId": "Azuki #9911",
+      "listPrice": 44.44
+    },
+    {
+      "tokenId": "Azuki #418",
+      "listPrice": 44.44
+    },
+    {
+      "tokenId": "Azuki #2209",
+      "listPrice": 44.44
+    },
+    {
+      "tokenId": "Azuki #6340",
+      "listPrice": 44.8
+    },
+    {
+      "tokenId": "Azuki #3468",
+      "listPrice": 44.99
+    },
+    {
+      "tokenId": "Azuki #7461",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #4758",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #5878",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #8871",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #6120",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #5857",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #232",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #1118",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #1241",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #7982",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #4187",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #4338",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #4415",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #2522",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #2837",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #2923",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #3004",
+      "listPrice": 45
+    },
+    {
+      "tokenId": "Azuki #3090",
+      "listPrice": 45.5
+    },
+    {
+      "tokenId": "Azuki #8433",
+      "listPrice": 45.69
+    },
+    {
+      "tokenId": "Azuki #6738",
+      "listPrice": 46
+    },
+    {
+      "tokenId": "Azuki #4056",
+      "listPrice": 46
+    },
+    {
+      "tokenId": "Azuki #5128",
+      "listPrice": 47
+    },
+    {
+      "tokenId": "Azuki #7759",
+      "listPrice": 47.89
+    },
+    {
+      "tokenId": "Azuki #9102",
+      "listPrice": 48
+    },
+    {
+      "tokenId": "Azuki #8071",
+      "listPrice": 48
+    },
+    {
+      "tokenId": "Azuki #3393",
+      "listPrice": 48
+    },
+    {
+      "tokenId": "Azuki #3874",
+      "listPrice": 48
+    },
+    {
+      "tokenId": "Azuki #3216",
+      "listPrice": 48.48
+    },
+    {
+      "tokenId": "Azuki #8863",
+      "listPrice": 48.5
+    },
+    {
+      "tokenId": "Azuki #396",
+      "listPrice": 48.7
+    },
+    {
+      "tokenId": "Azuki #5356",
+      "listPrice": 48.8
+    },
+    {
+      "tokenId": "Azuki #903",
+      "listPrice": 48.8
+    },
+    {
+      "tokenId": "Azuki #1644",
+      "listPrice": 48.8
+    },
+    {
+      "tokenId": "Azuki #7873",
+      "listPrice": 48.88
+    },
+    {
+      "tokenId": "Azuki #8280",
+      "listPrice": 48.88
+    },
+    {
+      "tokenId": "Azuki #9215",
+      "listPrice": 49
+    },
+    {
+      "tokenId": "Azuki #6400",
+      "listPrice": 49
+    },
+    {
+      "tokenId": "Azuki #9532",
+      "listPrice": 49
+    },
+    {
+      "tokenId": "Azuki #2171",
+      "listPrice": 49
+    },
+    {
+      "tokenId": "Azuki #4109",
+      "listPrice": 49
+    },
+    {
+      "tokenId": "Azuki #5424",
+      "listPrice": 49
+    },
+    {
+      "tokenId": "Azuki #5207",
+      "listPrice": 49.89
+    },
+    {
+      "tokenId": "Azuki #8846",
+      "listPrice": 49.9
+    },
+    {
+      "tokenId": "Azuki #3455",
+      "listPrice": 49.9
+    },
+    {
+      "tokenId": "Azuki #3976",
+      "listPrice": 49.98
+    },
+    {
+      "tokenId": "Azuki #4893",
+      "listPrice": 49.99
+    },
+    {
+      "tokenId": "Azuki #7816",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #7192",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #5853",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #8453",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #5130",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #5351",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #6130",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #6183",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #9765",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #8827",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #9717",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #1366",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #741",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #4471",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #4686",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #8173",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #1660",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #1698",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #2262",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #3002",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #4181",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #7803",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #9362",
+      "listPrice": 50
+    },
+    {
+      "tokenId": "Azuki #9793",
+      "listPrice": 50.888
+    },
+    {
+      "tokenId": "Azuki #927",
+      "listPrice": 51
+    },
+    {
+      "tokenId": "Azuki #3186",
+      "listPrice": 51
+    },
+    {
+      "tokenId": "Azuki #4160",
+      "listPrice": 51
+    },
+    {
+      "tokenId": "Azuki #8912",
+      "listPrice": 51.23
+    },
+    {
+      "tokenId": "Azuki #5261",
+      "listPrice": 52
+    },
+    {
+      "tokenId": "Azuki #858",
+      "listPrice": 52.88
+    },
+    {
+      "tokenId": "Azuki #9208",
+      "listPrice": 53
+    },
+    {
+      "tokenId": "Azuki #5465",
+      "listPrice": 53
+    },
+    {
+      "tokenId": "Azuki #9188",
+      "listPrice": 54
+    },
+    {
+      "tokenId": "Azuki #9274",
+      "listPrice": 54.2069
+    },
+    {
+      "tokenId": "Azuki #6442",
+      "listPrice": 54.5
+    },
+    {
+      "tokenId": "Azuki #8042",
+      "listPrice": 54.9
+    },
+    {
+      "tokenId": "Azuki #6144",
+      "listPrice": 55
+    },
+    {
+      "tokenId": "Azuki #6384",
+      "listPrice": 55
+    },
+    {
+      "tokenId": "Azuki #203",
+      "listPrice": 55
+    },
+    {
+      "tokenId": "Azuki #7827",
+      "listPrice": 55
+    },
+    {
+      "tokenId": "Azuki #8212",
+      "listPrice": 55
+    },
+    {
+      "tokenId": "Azuki #7787",
+      "listPrice": 55
+    },
+    {
+      "tokenId": "Azuki #6778",
+      "listPrice": 55
+    },
+    {
+      "tokenId": "Azuki #1633",
+      "listPrice": 55
+    },
+    {
+      "tokenId": "Azuki #2119",
+      "listPrice": 55
+    },
+    {
+      "tokenId": "Azuki #4413",
+      "listPrice": 55
+    },
+    {
+      "tokenId": "Azuki #4885",
+      "listPrice": 55
+    },
+    {
+      "tokenId": "Azuki #7768",
+      "listPrice": 55.55
+    },
+    {
+      "tokenId": "Azuki #1712",
+      "listPrice": 55.55
+    },
+    {
+      "tokenId": "Azuki #2677",
+      "listPrice": 55.55
+    },
+    {
+      "tokenId": "Azuki #3781",
+      "listPrice": 55.55
+    },
+    {
+      "tokenId": "Azuki #4096",
+      "listPrice": 56
+    },
+    {
+      "tokenId": "Azuki #8494",
+      "listPrice": 57.4
+    },
+    {
+      "tokenId": "Azuki #9743",
+      "listPrice": 58
+    },
+    {
+      "tokenId": "Azuki #3365",
+      "listPrice": 58.3
+    },
+    {
+      "tokenId": "Azuki #6465",
+      "listPrice": 58.8
+    },
+    {
+      "tokenId": "Azuki #7710",
+      "listPrice": 59.69
+    },
+    {
+      "tokenId": "Azuki #8864",
+      "listPrice": 59.69
+    },
+    {
+      "tokenId": "Azuki #4412",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #7966",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #6247",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #6076",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #9379",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #1347",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #9693",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #2376",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #2744",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #9675",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #4667",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #5028",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #8416",
+      "listPrice": 60
+    },
+    {
+      "tokenId": "Azuki #470",
+      "listPrice": 62.69
+    },
+    {
+      "tokenId": "Azuki #1770",
+      "listPrice": 64
+    },
+    {
+      "tokenId": "Azuki #9209",
+      "listPrice": 65
+    },
+    {
+      "tokenId": "Azuki #8022",
+      "listPrice": 65
+    },
+    {
+      "tokenId": "Azuki #464",
+      "listPrice": 65
+    },
+    {
+      "tokenId": "Azuki #5035",
+      "listPrice": 65
+    },
+    {
+      "tokenId": "Azuki #1116",
+      "listPrice": 65
+    },
+    {
+      "tokenId": "Azuki #4496",
+      "listPrice": 65
+    },
+    {
+      "tokenId": "Azuki #2842",
+      "listPrice": 65
+    },
+    {
+      "tokenId": "Azuki #5473",
+      "listPrice": 66
+    },
+    {
+      "tokenId": "Azuki #392",
+      "listPrice": 66
+    },
+    {
+      "tokenId": "Azuki #1227",
+      "listPrice": 66
+    },
+    {
+      "tokenId": "Azuki #4570",
+      "listPrice": 66
+    },
+    {
+      "tokenId": "Azuki #3894",
+      "listPrice": 66.5
+    },
+    {
+      "tokenId": "Azuki #6571",
+      "listPrice": 66.66
+    },
+    {
+      "tokenId": "Azuki #8720",
+      "listPrice": 67
+    },
+    {
+      "tokenId": "Azuki #5057",
+      "listPrice": 68
+    },
+    {
+      "tokenId": "Azuki #5939",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #201",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #316",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #9453",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #8177",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #7789",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #3163",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #1772",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #3327",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #1791",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #8047",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #6517",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #3950",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #4223",
+      "listPrice": 69
+    },
+    {
+      "tokenId": "Azuki #6935",
+      "listPrice": 69.35
+    },
+    {
+      "tokenId": "Azuki #9610",
+      "listPrice": 69.4269
+    },
+    {
+      "tokenId": "Azuki #8147",
+      "listPrice": 69.69
+    },
+    {
+      "tokenId": "Azuki #8842",
+      "listPrice": 69.69
+    },
+    {
+      "tokenId": "Azuki #5437",
+      "listPrice": 69.69
+    },
+    {
+      "tokenId": "Azuki #8833",
+      "listPrice": 69.69
+    },
+    {
+      "tokenId": "Azuki #5200",
+      "listPrice": 69.69
+    },
+    {
+      "tokenId": "Azuki #421",
+      "listPrice": 69.69
+    },
+    {
+      "tokenId": "Azuki #1671",
+      "listPrice": 69.8
+    },
+    {
+      "tokenId": "Azuki #8451",
+      "listPrice": 69.99
+    },
+    {
+      "tokenId": "Azuki #7821",
+      "listPrice": 69.999
+    },
+    {
+      "tokenId": "Azuki #7675",
+      "listPrice": 70
+    },
+    {
+      "tokenId": "Azuki #970",
+      "listPrice": 70
+    },
+    {
+      "tokenId": "Azuki #3119",
+      "listPrice": 70
+    },
+    {
+      "tokenId": "Azuki #2806",
+      "listPrice": 70
+    },
+    {
+      "tokenId": "Azuki #9531",
+      "listPrice": 70
+    },
+    {
+      "tokenId": "Azuki #2016",
+      "listPrice": 70
+    },
+    {
+      "tokenId": "Azuki #6603",
+      "listPrice": 71
+    },
+    {
+      "tokenId": "Azuki #7008",
+      "listPrice": 72
+    },
+    {
+      "tokenId": "Azuki #2622",
+      "listPrice": 72
+    },
+    {
+      "tokenId": "Azuki #7272",
+      "listPrice": 72.72
+    },
+    {
+      "tokenId": "Azuki #3407",
+      "listPrice": 73.69
+    },
+    {
+      "tokenId": "Azuki #5522",
+      "listPrice": 73.8
+    },
+    {
+      "tokenId": "Azuki #7913",
+      "listPrice": 74
+    },
+    {
+      "tokenId": "Azuki #6346",
+      "listPrice": 74
+    },
+    {
+      "tokenId": "Azuki #7483",
+      "listPrice": 74.99
+    },
+    {
+      "tokenId": "Azuki #7488",
+      "listPrice": 74.99999000000001
+    },
+    {
+      "tokenId": "Azuki #8221",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #7475",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #6590",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #7416",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #5957",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #1155",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #1255",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #2683",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #684",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #2292",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #946",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #3968",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #4435",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #3042",
+      "listPrice": 75
+    },
+    {
+      "tokenId": "Azuki #1348",
+      "listPrice": 77
+    },
+    {
+      "tokenId": "Azuki #4015",
+      "listPrice": 77
+    },
+    {
+      "tokenId": "Azuki #2902",
+      "listPrice": 77
+    },
+    {
+      "tokenId": "Azuki #4398",
+      "listPrice": 77.77
+    },
+    {
+      "tokenId": "Azuki #2524",
+      "listPrice": 79
+    },
+    {
+      "tokenId": "Azuki #6077",
+      "listPrice": 79.999
+    },
+    {
+      "tokenId": "Azuki #5685",
+      "listPrice": 80
+    },
+    {
+      "tokenId": "Azuki #731",
+      "listPrice": 80
+    },
+    {
+      "tokenId": "Azuki #743",
+      "listPrice": 80
+    },
+    {
+      "tokenId": "Azuki #6626",
+      "listPrice": 80
+    },
+    {
+      "tokenId": "Azuki #8385",
+      "listPrice": 80
+    },
+    {
+      "tokenId": "Azuki #1191",
+      "listPrice": 80
+    },
+    {
+      "tokenId": "Azuki #6187",
+      "listPrice": 85
+    },
+    {
+      "tokenId": "Azuki #4829",
+      "listPrice": 85
+    },
+    {
+      "tokenId": "Azuki #4123",
+      "listPrice": 85
+    },
+    {
+      "tokenId": "Azuki #1542",
+      "listPrice": 85
+    },
+    {
+      "tokenId": "Azuki #1350",
+      "listPrice": 86
+    },
+    {
+      "tokenId": "Azuki #7543",
+      "listPrice": 88
+    },
+    {
+      "tokenId": "Azuki #6498",
+      "listPrice": 88
+    },
+    {
+      "tokenId": "Azuki #8703",
+      "listPrice": 88
+    },
+    {
+      "tokenId": "Azuki #1484",
+      "listPrice": 88
+    },
+    {
+      "tokenId": "Azuki #239",
+      "listPrice": 88
+    },
+    {
+      "tokenId": "Azuki #8540",
+      "listPrice": 88
+    },
+    {
+      "tokenId": "Azuki #9097",
+      "listPrice": 88
+    },
+    {
+      "tokenId": "Azuki #429",
+      "listPrice": 88.8
+    },
+    {
+      "tokenId": "Azuki #3226",
+      "listPrice": 88.8
+    },
+    {
+      "tokenId": "Azuki #2577",
+      "listPrice": 88.88
+    },
+    {
+      "tokenId": "Azuki #3788",
+      "listPrice": 88.88
+    },
+    {
+      "tokenId": "Azuki #4974",
+      "listPrice": 89
+    },
+    {
+      "tokenId": "Azuki #2895",
+      "listPrice": 89.98
+    },
+    {
+      "tokenId": "Azuki #3668",
+      "listPrice": 90
+    },
+    {
+      "tokenId": "Azuki #3505",
+      "listPrice": 90
+    },
+    {
+      "tokenId": "Azuki #4729",
+      "listPrice": 94
+    },
+    {
+      "tokenId": "Azuki #9621",
+      "listPrice": 94.6
+    },
+    {
+      "tokenId": "Azuki #6785",
+      "listPrice": 96
+    },
+    {
+      "tokenId": "Azuki #9278",
+      "listPrice": 99
+    },
+    {
+      "tokenId": "Azuki #9947",
+      "listPrice": 99
+    },
+    {
+      "tokenId": "Azuki #6922",
+      "listPrice": 99
+    },
+    {
+      "tokenId": "Azuki #4078",
+      "listPrice": 99.69
+    },
+    {
+      "tokenId": "Azuki #1898",
+      "listPrice": 99.6969
+    },
+    {
+      "tokenId": "Azuki #8825",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #8925",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #5704",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #5077",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #6878",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #7612",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #440",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #984",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #958",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #2754",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #3005",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #3121",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #9143",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #4427",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #1544",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #1953",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #3820",
+      "listPrice": 100
+    },
+    {
+      "tokenId": "Azuki #6586",
+      "listPrice": 100.69
+    },
+    {
+      "tokenId": "Azuki #9045",
+      "listPrice": 100.69
+    },
+    {
+      "tokenId": "Azuki #7855",
+      "listPrice": 101
+    },
+    {
+      "tokenId": "Azuki #8378",
+      "listPrice": 102.22
+    },
+    {
+      "tokenId": "Azuki #1695",
+      "listPrice": 105
+    },
+    {
+      "tokenId": "Azuki #9300",
+      "listPrice": 111
+    },
+    {
+      "tokenId": "Azuki #1281",
+      "listPrice": 111
+    },
+    {
+      "tokenId": "Azuki #1909",
+      "listPrice": 111
+    },
+    {
+      "tokenId": "Azuki #5371",
+      "listPrice": 117
+    },
+    {
+      "tokenId": "Azuki #896",
+      "listPrice": 118
+    },
+    {
+      "tokenId": "Azuki #5899",
+      "listPrice": 118
+    },
+    {
+      "tokenId": "Azuki #6137",
+      "listPrice": 120
+    },
+    {
+      "tokenId": "Azuki #1929",
+      "listPrice": 120
+    },
+    {
+      "tokenId": "Azuki #4185",
+      "listPrice": 120
+    },
+    {
+      "tokenId": "Azuki #9404",
+      "listPrice": 120
+    },
+    {
+      "tokenId": "Azuki #5167",
+      "listPrice": 120
+    },
+    {
+      "tokenId": "Azuki #9530",
+      "listPrice": 125
+    },
+    {
+      "tokenId": "Azuki #5080",
+      "listPrice": 125
+    },
+    {
+      "tokenId": "Azuki #7386",
+      "listPrice": 129
+    },
+    {
+      "tokenId": "Azuki #2492",
+      "listPrice": 129.888
+    },
+    {
+      "tokenId": "Azuki #4791",
+      "listPrice": 132
+    },
+    {
+      "tokenId": "Azuki #1421",
+      "listPrice": 140
+    },
+    {
+      "tokenId": "Azuki #930",
+      "listPrice": 140
+    },
+    {
+      "tokenId": "Azuki #907",
+      "listPrice": 140
+    },
+    {
+      "tokenId": "Azuki #598",
+      "listPrice": 144
+    },
+    {
+      "tokenId": "Azuki #9099",
+      "listPrice": 150
+    },
+    {
+      "tokenId": "Azuki #7370",
+      "listPrice": 150
+    },
+    {
+      "tokenId": "Azuki #6314",
+      "listPrice": 150
+    },
+    {
+      "tokenId": "Azuki #7353",
+      "listPrice": 150
+    },
+    {
+      "tokenId": "Azuki #2554",
+      "listPrice": 150
+    },
+    {
+      "tokenId": "Azuki #1879",
+      "listPrice": 150
+    },
+    {
+      "tokenId": "Azuki #2313",
+      "listPrice": 150
+    },
+    {
+      "tokenId": "Azuki #4416",
+      "listPrice": 150
+    },
+    {
+      "tokenId": "Azuki #2461",
+      "listPrice": 150
+    },
+    {
+      "tokenId": "Azuki #1377",
+      "listPrice": 160
+    },
+    {
+      "tokenId": "Azuki #1226",
+      "listPrice": 160
+    },
+    {
+      "tokenId": "Azuki #8235",
+      "listPrice": 165
+    },
+    {
+      "tokenId": "Azuki #1766",
+      "listPrice": 165
+    },
+    {
+      "tokenId": "Azuki #9322",
+      "listPrice": 168
+    },
+    {
+      "tokenId": "Azuki #3180",
+      "listPrice": 188
+    },
+    {
+      "tokenId": "Azuki #7626",
+      "listPrice": 190
+    },
+    {
+      "tokenId": "Azuki #3211",
+      "listPrice": 190
+    },
+    {
+      "tokenId": "Azuki #2081",
+      "listPrice": 198
+    },
+    {
+      "tokenId": "Azuki #5765",
+      "listPrice": 200
+    },
+    {
+      "tokenId": "Azuki #5460",
+      "listPrice": 200
+    },
+    {
+      "tokenId": "Azuki #1072",
+      "listPrice": 200
+    },
+    {
+      "tokenId": "Azuki #8439",
+      "listPrice": 200
+    },
+    {
+      "tokenId": "Azuki #7372",
+      "listPrice": 200
+    },
+    {
+      "tokenId": "Azuki #609",
+      "listPrice": 200
+    },
+    {
+      "tokenId": "Azuki #2076",
+      "listPrice": 200
+    },
+    {
+      "tokenId": "Azuki #9584",
+      "listPrice": 200
+    },
+    {
+      "tokenId": "Azuki #8622",
+      "listPrice": 206
+    },
+    {
+      "tokenId": "Azuki #837",
+      "listPrice": 249
+    },
+    {
+      "tokenId": "Azuki #3491",
+      "listPrice": 250
+    },
+    {
+      "tokenId": "Azuki #1680",
+      "listPrice": 268
+    },
+    {
+      "tokenId": "Azuki #7754",
+      "listPrice": 275
+    },
+    {
+      "tokenId": "Azuki #8312",
+      "listPrice": 300
+    },
+    {
+      "tokenId": "Azuki #7977",
+      "listPrice": 300
+    },
+    {
+      "tokenId": "Azuki #727",
+      "listPrice": 300
+    },
+    {
+      "tokenId": "Azuki #2967",
+      "listPrice": 300
+    },
+    {
+      "tokenId": "Azuki #5109",
+      "listPrice": 300
+    },
+    {
+      "tokenId": "Azuki #7533",
+      "listPrice": 333
+    },
+    {
+      "tokenId": "Azuki #8744",
+      "listPrice": 333
+    },
+    {
+      "tokenId": "Azuki #3354",
+      "listPrice": 333
+    },
+    {
+      "tokenId": "Azuki #5172",
+      "listPrice": 350
+    },
+    {
+      "tokenId": "Azuki #1334",
+      "listPrice": 350
+    },
+    {
+      "tokenId": "Azuki #5627",
+      "listPrice": 368
+    },
+    {
+      "tokenId": "Azuki #4049",
+      "listPrice": 369.42
+    },
+    {
+      "tokenId": "Azuki #7257",
+      "listPrice": 369.69
+    },
+    {
+      "tokenId": "Azuki #9608",
+      "listPrice": 400
+    },
+    {
+      "tokenId": "Azuki #5909",
+      "listPrice": 412
+    },
+    {
+      "tokenId": "Azuki #9998",
+      "listPrice": 420.69
+    },
+    {
+      "tokenId": "Azuki #2311",
+      "listPrice": 420.69
+    },
+    {
+      "tokenId": "Azuki #3153",
+      "listPrice": 420.69
+    },
+    {
+      "tokenId": "Azuki #4693",
+      "listPrice": 420.69
+    },
+    {
+      "tokenId": "Azuki #6292",
+      "listPrice": 500
+    },
+    {
+      "tokenId": "Azuki #8492",
+      "listPrice": 500
+    },
+    {
+      "tokenId": "Azuki #9121",
+      "listPrice": 588
+    },
+    {
+      "tokenId": "Azuki #6525",
+      "listPrice": 666
+    },
+    {
+      "tokenId": "Azuki #5728",
+      "listPrice": 666
+    },
+    {
+      "tokenId": "Azuki #8227",
+      "listPrice": 666.6899999999999
+    },
+    {
+      "tokenId": "Azuki #6954",
+      "listPrice": 695.4
+    },
+    {
+      "tokenId": "Azuki #2904",
+      "listPrice": 800
+    },
+    {
+      "tokenId": "Azuki #9512",
+      "listPrice": 850
+    },
+    {
+      "tokenId": "Azuki #3611",
+      "listPrice": 999
+    },
+    {
+      "tokenId": "Azuki #6609",
+      "listPrice": 999
+    },
+    {
+      "tokenId": "Azuki #2736",
+      "listPrice": 999
+    },
+    {
+      "tokenId": "Azuki #2174",
+      "listPrice": 999
+    },
+    {
+      "tokenId": "Azuki #5558",
+      "listPrice": 1111
+    },
+    {
+      "tokenId": "Azuki #5702",
+      "listPrice": 1337
+    },
+    {
+      "tokenId": "Azuki #3309",
+      "listPrice": 1690.42
+    },
+    {
+      "tokenId": "Azuki #1468",
+      "listPrice": 1888
+    },
+    {
+      "tokenId": "Azuki #5222",
+      "listPrice": 9999
+    }
+  ]
+}
